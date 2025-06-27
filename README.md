@@ -2,6 +2,9 @@
 
 ¡Bienvenido a Block Jumper! Un juego inspirado en Geometry Dash, hecho en Python con Pygame, donde controlas un cubo que salta, gira y desafía la gravedad.
 
+**Autor:** Gary Josue  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gary%20Josue-blue?logo=linkedin)](https://www.linkedin.com/in/garibaldiortu%C3%B1o/)
+
 ## 🎮 ¿Cómo jugar?
 - Pulsa **ESPACIO** para saltar.
 - Esquiva los obstáculos.
@@ -47,7 +50,8 @@ Block-Jumper/
 Este proyecto usa la licencia MIT. Puedes usar, modificar y compartir libremente.
 
 ## ✨ Créditos
-Creado por [Tu Nombre].
+Creado por Gary Josue.  
+[LinkedIn](https://www.linkedin.com/in/garibaldiortu%C3%B1o/)
 
 ---
 

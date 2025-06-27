@@ -2,6 +2,9 @@
 
 ¡Gracias por tu interés en contribuir a Block Jumper! Este proyecto es libre y abierto a la comunidad.
 
+**Autor:** Gary Josue  
+[LinkedIn](https://www.linkedin.com/in/garibaldiortu%C3%B1o/)
+
 ## 🧑‍💻 ¿Cómo contribuir?
 1. Haz un fork del repositorio.
 2. Crea una rama para tu feature o fix:

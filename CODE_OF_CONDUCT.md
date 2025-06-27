@@ -2,6 +2,9 @@
 
 Como participantes y administradores de este proyecto, nos comprometemos a hacer de la participación en nuestra comunidad una experiencia libre de acoso para todos, independientemente de la edad, tamaño corporal, discapacidad, etnia, identidad y expresión de género, nivel de experiencia, nacionalidad, apariencia personal, raza, religión o identidad y orientación sexual.
 
+**Autor:** Gary Josue  
+[LinkedIn](https://www.linkedin.com/in/garibaldiortu%C3%B1o/)
+
 ## Normas
 - Sé amable y respetuoso.
 - No se tolera el acoso ni el lenguaje ofensivo.
